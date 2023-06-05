@@ -11,3 +11,4 @@ following projects/spaces have adopted this Code of Conduct -
 * [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) in [ocaml/ocaml.org#1135](https://github.com/ocaml/ocaml.org/pull/1135)
 * [watch.ocaml.org](https://watch.ocaml.org) see [the instance information](https://watch.ocaml.org/about/instance#code-of-conduct)
 * [geocaml organisation](https://github.com/geocaml) see [the organisation's profile](https://github.com/geocaml/.github)
+* [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio) in [ocaml-multicore/eio#501](https://github.com/ocaml-multicore/eio/pull/501)
